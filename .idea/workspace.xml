@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27f0b1c8-3ada-4c44-a674-8942c5baa97d" name="Default Changelist" comment="" />
+    <list default="true" id="27f0b1c8-3ada-4c44-a674-8942c5baa97d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -141,8 +147,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="ServiceViewManager">
@@ -168,6 +181,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577140784276</updated>
       <workItem from="1577140785734" duration="5873000" />
+      <workItem from="1577445434289" duration="796000" />
     </task>
     <servers />
   </component>
@@ -175,9 +189,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="405" y="211" width="545" height="401" key="NewPhpClassDialog" timestamp="1577147235635">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="405" y="181" width="560" height="394" key="NewPhpClassDialog" timestamp="1577447198886">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="405" y="181" width="560" height="394" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1577447198886" />
     <state x="405" y="211" width="545" height="401" key="NewPhpClassDialog/0.27.1366.741@0.27.1366.741" timestamp="1577147235635" />
     <state x="172" y="32" key="SettingsEditor" timestamp="1577142855257">
       <screen x="0" y="27" width="1366" height="741" />
